@@ -164,12 +164,3 @@ git push origin feature/amazing-feature
 
 5. Open a Pull Request
 
----
-
-## License
-
-MIT License
-
----
-
-Made with ❤️ using Bun and TypeScript.
